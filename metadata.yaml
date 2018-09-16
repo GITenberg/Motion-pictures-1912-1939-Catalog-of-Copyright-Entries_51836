@@ -1,0 +1,28 @@
+_repo: Motion-pictures-1912-1939-Catalog-of-Copyright-Entries_51836
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Library of Congress. Copyright Office
+    aliases:
+    - United States. Copyright Office
+    - Office, U.S. Copyright
+    - Congress, U. S. Copyright Office Library of
+    - Library of Congress. Register of Copyrights
+    gutenberg_agent_id: '141'
+    url: http://www.gutenberg.org/2009/agents/141
+description: ''
+gutenberg_issued: '2016-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51836'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcc 'PN'
+- !lcsh 'Motion pictures -- Catalogs'
+- GITenberg
+title: 'Motion pictures, 1912-1939: Catalog of Copyright Entries'
+url: http://www.gutenberg.org/ebooks/51836
